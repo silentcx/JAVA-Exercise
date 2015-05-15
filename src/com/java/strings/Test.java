@@ -8,11 +8,6 @@ public class Test {
 		
 		System.out.println("Test again...");
 
-
-		String str;
-		
-		String str2="add work";
-
 	}
 
 }
