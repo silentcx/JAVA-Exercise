@@ -10,6 +10,8 @@ public class Test {
 
 
 		String str;
+		
+		String str2="add work";
 
 	}
 
