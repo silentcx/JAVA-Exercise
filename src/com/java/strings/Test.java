@@ -7,6 +7,12 @@ public class Test {
 		System.out.println("Hello Java&Github...");
 		
 		System.out.println("Test again...");
+		
+		test....add
+		
+		test...
+		
+		哈哈
 
 	}
 
