@@ -8,6 +8,8 @@ public class Test {
 		
 		System.out.println("Test again...");
 		
+		String str;
+		
 	}
 
 }
