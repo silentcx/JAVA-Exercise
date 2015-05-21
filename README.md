@@ -1,20 +1,28 @@
 # JAVA-Exercise
+***
 ## About
 
-## Strings
+>From: [TutorialPoint](http://www.tutorialspoint.com/javaexamples/)
 
-## Arrays
+## Contents
 
-## Data & Time
+- Strings
+    - 01 如何比较字符串？
+    - 02 如何搜索字符串的最后一个位置？
+    - 03 如何从字符串移除特定的字符？
 
-## Methods
+- Arrays
 
-## Files
+- Data & Time
 
-## Directories
+- Methods
 
-## Exceptions
+- Files
 
-## Data Structure
+- Directories
 
-## Collections
+- Exceptions
+
+- Data Structure
+
+- Collections
